@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🎓 &nbsp;I am a sophomore at the Indian Institute of Technology, Guwahati majoring in Physics. 
+
 👩🏻‍💻 &nbsp; &nbsp;My interest lies in Quantitative Finance and Competitive Programming. I also enjoy doing Web Development and Data Science related projects. 
 
 ### 🛠 &nbsp;Tech Stack
